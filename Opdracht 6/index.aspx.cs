@@ -154,5 +154,21 @@ namespace Opdracht_6
         {
             txtScherm.Text = txtScherm.Text.Remove(txtScherm.Text.Length - 1, 1);
         }
+
+        protected void btnO1_Click(object sender, EventArgs e)
+        {
+            double radius = Convert.ToDouble(txtScherm.Text) / 2;
+
+            double oppervlakte = radius * radius * 3.14;
+
+            txtScherm.Text = oppervlakte.ToString();
+        }
+
+        protected void btnO2_Click(object sender, EventArgs e)
+        {
+            double omtrek = Convert.ToDouble(txtScherm.Text) * 3.14;
+
+            txtScherm.Text = omtrek.ToString();
+        }
     }
 }

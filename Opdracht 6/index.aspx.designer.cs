@@ -157,13 +157,13 @@ namespace Opdracht_6 {
         protected global::System.Web.UI.WebControls.Button Button14;
         
         /// <summary>
-        /// Button15 control.
+        /// btnO1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button15;
+        protected global::System.Web.UI.WebControls.Button btnO1;
         
         /// <summary>
         /// btn0 control.
@@ -193,13 +193,13 @@ namespace Opdracht_6 {
         protected global::System.Web.UI.WebControls.Button btnUitkomst;
         
         /// <summary>
-        /// Button19 control.
+        /// btnO2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button19;
+        protected global::System.Web.UI.WebControls.Button btnO2;
         
         /// <summary>
         /// lGetal1 control.

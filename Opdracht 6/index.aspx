@@ -103,7 +103,7 @@
                     <asp:Button ID="Button14" runat="server" Font-Size="Larger" Height="43px" Text="-" Width="49px" OnClick="Button14_Click" />
                 </td>
                 <td class="auto-style8">
-                    <asp:Button ID="Button15" runat="server" Font-Size="Larger" Height="43px" Text="O1" Width="49px" />
+                    <asp:Button ID="btnO1" runat="server" Font-Size="Larger" Height="43px" Text="O1" Width="49px" OnClick="btnO1_Click" />
                 </td>
             </tr>
         </table>
@@ -119,7 +119,7 @@
                     <asp:Button ID="btnUitkomst" runat="server" Font-Size="Larger" Height="43px" Text="=" Width="49px" OnClick="btnUitkomst_Click" />
                 </td>
             <td>
-                    <asp:Button ID="Button19" runat="server" Font-Size="Larger" Height="43px" Text="O2" Width="49px" />
+                    <asp:Button ID="btnO2" runat="server" Font-Size="Larger" Height="43px" Text="O2" Width="49px" OnClick="btnO2_Click" />
                 </td>
         </tr>
     </table>
